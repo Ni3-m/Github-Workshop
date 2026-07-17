@@ -1,0 +1,3 @@
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ni3-m/Github-Workshop.git
